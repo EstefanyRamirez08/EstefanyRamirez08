@@ -16,6 +16,26 @@ I have a background in *backend development* with knowledge of various technolog
 
  Additionally, I have been delving deeper **Into Java** and possess basic knowledge of database management with **MySQL**, enabling me to manage data in a structured way and perform efficient queries.
 
+## Skills
+
+My skills in backend development focus on an organized and efficient approach to project execution.
+
+- *Pseudocode and PSeInt:*
+
+I have experience working which allow me to structure ideas and develop algorithms clearly and logically.
+
+- *Git and GitHub:*
+
+Additionally, I am proficient in using , essential tools for version control and collaboration on projects, ensuring a detailed history of changes.
+
+- *Java programming language:*
+
+I have also been delving into the and possess knowledge basic.
+
+- *MySQL:*
+
+I have knowledge basic of database management with , enabling me to manage data in a structured way and perform efficient queries.
+
 ## Hobbies
 
 *In my free time I enjoy a variety of activities.*
@@ -27,3 +47,4 @@ I have a background in *backend development* with knowledge of various technolog
 - One of my favorite pastimes is visiting the beach and enjoying the peaceful surroundings.
 
 - I am also passionate about baking desserts and exploring new cities, always looking for new adventures and experiences.
+
