@@ -15,3 +15,15 @@ I have a background in *backend development* with knowledge of various technolog
  I am also proficient in using **Git and GitHub** for version control, essential for collaborating on projects and maintaining a detailed history of changes.
 
  Additionally, I have been delving deeper **Into Java** and possess basic knowledge of database management with **MySQL**, enabling me to manage data in a structured way and perform efficient queries.
+
+## Hobbies
+
+*In my free time I enjoy a variety of activities.*
+
+- I love going to the movies to see the latest releases and spending the afternoons at home watching my favorite series.
+
+- I also enjoy shopping at the mall and trying new dining experiences, especially at themed restaurants.
+
+- One of my favorite pastimes is visiting the beach and enjoying the peaceful surroundings.
+
+- I am also passionate about baking desserts and exploring new cities, always looking for new adventures and experiences.
