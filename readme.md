@@ -48,3 +48,7 @@ I have knowledge basic of database management with , enabling me to manage data 
 
 - I am also passionate about baking desserts and exploring new cities, always looking for new adventures and experiences.
 
+## Languages
+
+- English
+- Spanish
